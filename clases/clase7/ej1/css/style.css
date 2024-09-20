@@ -1,0 +1,25 @@
+.caja{
+    width: 100%;
+    padding: 20%;
+    background-color: #007bff;
+    color:white;
+
+}
+
+/*estilo para pantallas maypres a 600px*/
+@media( min-width:600px){
+    .caja{
+        background-color: green;
+    }
+}
+
+/*estilo para pantallas maypres a 600px*/
+@media( min-width:1000px){
+    .caja{
+        background-color: rgb(122, 128, 0);
+    }
+}
+
+
+
+    
